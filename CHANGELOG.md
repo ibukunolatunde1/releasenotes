@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/ibukunolatunde1/releasenotes/compare/v1.0.0...v1.1.0) (2023-04-20)
+
+
+### Features
+
+* Sprint 2.0 ([407f24e](https://github.com/ibukunolatunde1/releasenotes/commit/407f24ee0efd79069e4598f5dabef97887cdd14f))
+
 ## 1.0.0 (2023-04-20)
 
 
