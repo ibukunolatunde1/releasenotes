@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/ibukunolatunde1/releasenotes/compare/v1.1.0...v1.2.0) (2023-04-26)
+
+
+### Features
+
+* Adding Another Feat; ([25c1b75](https://github.com/ibukunolatunde1/releasenotes/commit/25c1b757d120f867709066418933634b82b47d57))
+
 ## [1.1.0](https://github.com/ibukunolatunde1/releasenotes/compare/v1.0.0...v1.1.0) (2023-04-20)
 
 
