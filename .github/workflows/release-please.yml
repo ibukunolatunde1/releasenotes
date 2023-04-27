@@ -30,4 +30,5 @@ jobs:
       #   with:
       #     webhook_url: ${{ secrets.MSTEAMS_WEBHOOK }}
       #     overwrite: "{title: `New Release: ${github.event.release.name}`}"
-      - run: echo "Name: ${{ github.event.release.name }} Description: ${{ github.event.release.body }}"
+      - run: |
+          echo "Name: ${{ github.event.release.name }} Description: ${{ github.event.release.body }}"
