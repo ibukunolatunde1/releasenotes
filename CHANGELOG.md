@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/ibukunolatunde1/releasenotes/compare/v1.3.0...v1.4.0) (2023-04-27)
+
+
+### Features
+
+* Adding Teams Functionality ([8d1aa74](https://github.com/ibukunolatunde1/releasenotes/commit/8d1aa74b10b5d9df135965e6ed3de680d6644154))
+
 ## [1.3.0](https://github.com/ibukunolatunde1/releasenotes/compare/v1.2.0...v1.3.0) (2023-04-27)
 
 
