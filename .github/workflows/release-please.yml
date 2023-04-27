@@ -2,6 +2,8 @@ on:
   push:
     branches:
       - master
+  release:
+    types: [published]
 
 permissions:
   contents: write
@@ -12,9 +14,20 @@ name: release-please
 jobs:
   release-please:
     runs-on: ubuntu-latest
+    if: github.event_name == 'push'
     steps:
       - uses: google-github-actions/release-please-action@v3
         with:
           release-type: node
           package-name: release-please-action
           token: ${{ secrets.GITHUB_TOKEN }}
+  notify-teams:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'release' && github.event.release.published == true
+    steps:
+      # - name: Microsoft Teams Notification
+      #   uses: skitionek/notify-microsoft-teams@master
+      #   with:
+      #     webhook_url: ${{ secrets.MSTEAMS_WEBHOOK }}
+      #     overwrite: "{title: `New Release: ${github.event.release.name}`}"
+      - run: echo "Name: ${{ github.event.release.name }} Description: ${{ github.event.release.body }}"
