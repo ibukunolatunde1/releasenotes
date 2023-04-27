@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/ibukunolatunde1/releasenotes/compare/v1.7.0...v1.8.0) (2023-04-27)
+
+
+### Features
+
+* Added new pipeline ([eaa6821](https://github.com/ibukunolatunde1/releasenotes/commit/eaa682199cfb06d1cdb11c0a7ed09c3c9481c4a8))
+
 ## [1.7.0](https://github.com/ibukunolatunde1/releasenotes/compare/v1.6.0...v1.7.0) (2023-04-27)
 
 
