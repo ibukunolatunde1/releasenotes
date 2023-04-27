@@ -4,7 +4,7 @@ on:
       - master
       - release-please**
   release:
-    types: [created]
+    types: [published]
 
 permissions:
   contents: write
@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
   notify-teams:
     runs-on: ubuntu-latest
-    if: github.event_name == 'release' && github.event.release.created == true
+    if: github.event_name == 'release'
     steps:
       # - name: Microsoft Teams Notification
       #   uses: skitionek/notify-microsoft-teams@master
