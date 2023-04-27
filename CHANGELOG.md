@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/ibukunolatunde1/releasenotes/compare/v1.4.0...v1.4.1) (2023-04-27)
+
+
+### Bug Fixes
+
+* Change Release type to changed ([cfc74dd](https://github.com/ibukunolatunde1/releasenotes/commit/cfc74dd69731541f678fb52b51410e915e52f586))
+
 ## [1.4.0](https://github.com/ibukunolatunde1/releasenotes/compare/v1.3.0...v1.4.0) (2023-04-27)
 
 
