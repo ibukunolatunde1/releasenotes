@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.12.0](https://github.com/ibukunolatunde1/releasenotes/compare/v1.11.0...v1.12.0) (2023-04-27)
+
+
+### Features
+
+* Adding Token to the Pipeline 2 ([32614f2](https://github.com/ibukunolatunde1/releasenotes/commit/32614f21c8947637ce8505217e0a3099e48903a6))
+
 ## [1.11.0](https://github.com/ibukunolatunde1/releasenotes/compare/v1.10.1...v1.11.0) (2023-04-27)
 
 
