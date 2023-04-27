@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/ibukunolatunde1/releasenotes/compare/v1.5.0...v1.6.0) (2023-04-27)
+
+
+### Features
+
+* Change Release type to created ([e8a9d68](https://github.com/ibukunolatunde1/releasenotes/commit/e8a9d68aad39a64230914edd1569f4df891dee3f))
+
 ## [1.5.0](https://github.com/ibukunolatunde1/releasenotes/compare/v1.4.1...v1.5.0) (2023-04-27)
 
 
