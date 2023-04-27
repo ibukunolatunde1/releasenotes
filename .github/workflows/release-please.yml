@@ -3,7 +3,7 @@ on:
     branches:
       - master
   release:
-    types: [pending]
+    types: [created]
 
 permissions:
   contents: write
