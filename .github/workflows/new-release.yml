@@ -10,4 +10,5 @@ jobs:
     steps:
       - name: Echo Message
         run: echo "A new release has been published!"
-        token: ${{ secrets.PAT_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
