@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/ibukunolatunde1/releasenotes/compare/v1.4.1...v1.5.0) (2023-04-27)
+
+
+### Features
+
+* Release Please ([a62a957](https://github.com/ibukunolatunde1/releasenotes/commit/a62a957aebe89109e79e46287af61f5e62e5be1c))
+
 ## [1.4.1](https://github.com/ibukunolatunde1/releasenotes/compare/v1.4.0...v1.4.1) (2023-04-27)
 
 
