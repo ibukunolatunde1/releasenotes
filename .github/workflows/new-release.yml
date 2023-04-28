@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Echo Message
-        run: echo "A new release has been published!"
+        run: echo "A new release has been published! ${{ github.event.release.name }}"
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
