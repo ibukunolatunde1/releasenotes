@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/ibukunolatunde1/releasenotes/compare/v2.0.0...v3.0.0) (2023-04-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* Adding another thing now
+
+### Features
+
+* Adding another thing now ([5f139e2](https://github.com/ibukunolatunde1/releasenotes/commit/5f139e2c6d84c896db952bd23b4ba4d1078ff07e))
+
 ## [2.0.0](https://github.com/ibukunolatunde1/releasenotes/compare/v1.12.0...v2.0.0) (2023-04-28)
 
 
